@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    double r;
+    double r, pi;
+    pi=3.14;
     scanf("%lf",&r);
-    Area=r*3.14;
+    Area=r*pi;
     printf("Area: %.2lf",r);
     return 0;
 }
