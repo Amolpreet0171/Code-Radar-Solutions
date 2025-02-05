@@ -7,7 +7,7 @@ int main() {
         prinf("Even");
     }
     else{
-        prinf("False")
+        prinf("Odd");
     }
     return 0;
 }
