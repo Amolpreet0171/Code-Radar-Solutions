@@ -3,7 +3,7 @@
 int main() {
     int grade;
     scanf("%d",grade);
-    if(grade>=90){
+    if(grade>=90 && grade<=100){
         printf("A");
     }
     else if(grade>=80 && grade<90){
@@ -15,7 +15,7 @@ int main() {
     else if(grade>=60 && grade<70){
         printf("D");
     }
-    else(grade<60){
+    else(grade<60 && grade>=0){
         printf("F")
     }
     return 0;
