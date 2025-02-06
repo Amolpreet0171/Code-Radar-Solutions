@@ -19,7 +19,7 @@ int main() {
         printf("F");
     }
     else{
-        printf("Invalid")
+        printf("Invalid");
     }
     return 0;
 }
