@@ -13,7 +13,7 @@ int main() {
         printf("No Profit No Loss");
     }
     else{
-        printf("Invalid")
+        printf("Invalid");
     }
     return 0;
 }
