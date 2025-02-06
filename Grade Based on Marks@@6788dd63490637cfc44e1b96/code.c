@@ -16,7 +16,7 @@ int main() {
         printf("D");
     }
     else(grade<60 && grade>=0){
-        printf("F")
+        printf("F");
     }
     return 0;
 }
