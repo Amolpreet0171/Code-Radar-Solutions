@@ -9,7 +9,7 @@ int main(){
         case 2:
         printf("Tuesday");
         case 3:
-        printf("Wednusday");
+        printf("Wednesday");
         case 4:
         printf("Thursday");
         case 5:
