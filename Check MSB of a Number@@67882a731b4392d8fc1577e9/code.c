@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    in ta;
-    scnaf("%d",&a);
+    int a;
+    scanf("%d",&a);
     if((a>>(sizeof(a)*8-1))&1){
         printf("Set");
     }
