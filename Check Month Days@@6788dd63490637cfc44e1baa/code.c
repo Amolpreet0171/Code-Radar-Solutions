@@ -26,5 +26,5 @@ int main(){
         printf("Invalid month");
         break;
     return 0;
-
+    }
 }
