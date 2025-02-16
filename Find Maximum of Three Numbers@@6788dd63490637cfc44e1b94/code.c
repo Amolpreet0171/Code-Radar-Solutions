@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 int main() {
-    int x,y,z,max;
-    scanf("%d%d%d",&x,&y,&z);
+    int a,b,c,max;
+    scanf("%d%d%d",&a,&b,&c);
     max=a;
     if(b>max){
         max=b;
     }
-    else{
+    if(c>max){
         max=c;
     }
     printf("%d",max);
