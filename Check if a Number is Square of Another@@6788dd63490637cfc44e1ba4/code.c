@@ -2,12 +2,12 @@
 #include<stdio.h>
 int main(){
     int x,y;
-    scanf("%d %d", &x,&y);
+    scanf("%d%d",&x,&y);
     if(x==y*y){
-        printf("Yes");
+        pritnf("Yes");
     }
     else{
-        printf("No");
+        pritnf("No");
     }
     return 0;
 }
